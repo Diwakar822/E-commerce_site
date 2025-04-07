@@ -1,13 +1,13 @@
 
- 🛍️## Product Listing
+ ##🛍️ Product Listing
   
   --- 
 
-🛍## Overview
+##🛍 Overview
 This project is a responsive landing page that fetches product data from the Fake Store API and displays it in a card format. Users can search for products, view details in a modal, and specify the quantity of each product.
 
 ---
-🌟## Features
+##🌟 Features
 Fetch Products: Retrieves product data from the Fake Store API.
 Responsive Design: Works seamlessly on both mobile and desktop devices using Bootstrap.
 Product Cards: Displays product information including image, title, and price.
@@ -16,7 +16,7 @@ Modal for Product Details: Displays product description and quantity input when 
 
 --- 
 
-🛠️ ##Technologies Used
+##🛠️ Technologies Used
 HTML
 CSS (with Bootstrap)
 JavaScript
